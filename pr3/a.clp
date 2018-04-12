@@ -1,0 +1,2 @@
+f-1 (datos 1.0 azul "rojo")f-2 (datos 1 azul)f-3 (datos 1 azul rojo)f-4 (datos 1 azul ROJO)f-5 (datos 1 azul rojo 6.9)(defrule encontrar-datos 
+    (datos ? azul rojo $?) => )For a total of 6 facts.CLIPS> (agenda)0 encontrar-datos: f-50 encontrar-datos: f-3
